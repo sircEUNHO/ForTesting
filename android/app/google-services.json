@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "76436981581",
+    "firebase_url": "https://activeev-d18da.firebaseio.com",
+    "project_id": "activeev-d18da",
+    "storage_bucket": "activeev-d18da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76436981581:android:c99581510cdff8e1",
+        "android_client_info": {
+          "package_name": "com.veevmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76436981581-lca7siu4du1b8n7pbed9ukv4vc86bh1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwq7YiPCwEF99X1RqMdIxaCLK74naP_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
